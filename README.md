@@ -10,7 +10,9 @@
   <h2 align="center">10 Mini HTML CSS Project</h2>
 
   I have accumulated 10 Mini HTML CSS Projects for Practice, The projects are built using HTML5, CSS3 & JavaScript.
-
+  
+</div>
+  
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
